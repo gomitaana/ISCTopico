@@ -1,0 +1,36 @@
+*{
+	color: #2C589D;
+}
+.header-content{
+	background-image: url('../img/banner.png');
+	height: 150px;
+	width: 100%;
+	background-position: center;
+	text-align: center;
+}
+h1, .menu{
+	text-align: center;
+}
+h1{
+	margin-bottom: 15px;
+}
+.img-btn{
+	height: 64px !important;
+}
+.menu-btn{
+	height: 80px;
+	width: 250px;
+}
+.space{
+	height: 50px;
+}
+.space2{
+	height: 100px;
+}
+.foto{
+	height: 150px;
+	width: 150px;
+}
+div{
+	margin-bottom: 15px;
+}
